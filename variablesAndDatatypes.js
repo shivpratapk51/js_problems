@@ -200,6 +200,7 @@ function variables() {
 }
 
 function datatypes() {
+    
   //Data types
        /*
             A data type is an attribute associated with a piece of data that determines how the data has to be interpreted. In JavaScript, there are eight basic data types: Number, BigInt, String, Boolean, null, undefined, Symbol, and Objects. All the data types except objects are primitive data types, i.e., the data type is already built-in, and the programmer does not have to create them. Let's see each of them in detail.
